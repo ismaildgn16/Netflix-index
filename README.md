@@ -1,1 +1,1 @@
-# Netflix-Clone-Project
+# Netflix-index
